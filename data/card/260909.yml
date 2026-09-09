@@ -7,7 +7,7 @@ about:
   latestVersion: "rel_1_4_1"
   latestRelease: "rel_1_4_1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T02:10:29Z
+  collectedAt: 2026-09-09T18:26:17Z
 timeline:
   created: 2018-11-26
   lastCommit: 2026-08-18
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-05
   lastPrerelease: 
 popularity:
-  star: 457
+  star: 460
   watcher: 10
   fork: 89
   release: 80
@@ -35,7 +35,7 @@ recent:
     openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 1
+    commit: 0
   last60d:
     since: 2026-07-11
     release: 2
@@ -43,7 +43,7 @@ recent:
     openPR: 0
     closedIssue: 5
     openIssue: 0
-    commit: 22
+    commit: 0
   last90d:
     since: 2026-06-11
     release: 2
@@ -51,7 +51,7 @@ recent:
     openPR: 0
     closedIssue: 5
     openIssue: 0
-    commit: 22
+    commit: 0
   last180d:
     since: 2026-03-13
     release: 4
@@ -59,7 +59,7 @@ recent:
     openPR: 0
     closedIssue: 7
     openIssue: 0
-    commit: 36
+    commit: 0
   last360d:
     since: 2025-09-14
     release: 4
@@ -67,7 +67,7 @@ recent:
     openPR: 1
     closedIssue: 9
     openIssue: 1
-    commit: 36
+    commit: 0
   last720d:
     since: 2024-09-19
     release: 9
@@ -85,7 +85,7 @@ total:
   commit: 1017
 ---
 path: /home/runner/.x-repo/github.com/sqlalchemy/mako
-collectedAt: 2026-09-09T02:10:30Z
+collectedAt: 2026-09-09T18:26:19Z
 loc:
   Python:
     code: 17067
