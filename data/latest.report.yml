@@ -7,7 +7,7 @@ about:
   latestVersion: "rel_1_4_1"
   latestRelease: "rel_1_4_1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:20:07Z
+  collectedAt: 2026-09-11T02:04:30Z
 timeline:
   created: 2018-11-26
   lastCommit: 2026-08-18
@@ -85,7 +85,7 @@ total:
   commit: 1017
 ---
 path: /home/runner/.x-repo/github.com/sqlalchemy/mako
-collectedAt: 2026-09-11T00:20:08Z
+collectedAt: 2026-09-11T02:04:31Z
 loc:
   Python:
     code: 17067
