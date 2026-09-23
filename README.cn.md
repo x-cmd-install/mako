@@ -4,7 +4,7 @@
 
 Mako Templates for Python
 
-[![x-cmd/install — mako Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mako.svg?lang=zh)](https://x-cmd.com/install/mako)
+[![x-cmd/install — mako Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/mako.svg?lang=zh)](https://x-cmd.com/install/mako)
 
 ## 安装
 
@@ -14,12 +14,12 @@ x install mako
 
 ## 代码洞察
 
-合计: **23,649** 行代码（覆盖前 5 种语言、共 **109** 个文件）。
+合计: **23,727** 行代码（覆盖前 5 种语言、共 **108** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 17,067 | 658 | 2,484 | 71 |
-| ReStructuredText | 5,266 | 0 | 1,788 | 13 |
+| Python | 17,117 | 676 | 2,482 | 71 |
+| ReStructuredText | 5,294 | 0 | 1,795 | 12 |
 | Html | 1,001 | 0 | 30 | 23 |
 | Toml | 132 | 8 | 19 | 1 |
 | Makefile | 115 | 4 | 21 | 1 |
@@ -30,9 +30,9 @@ x install mako
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
+- **SAST** (0/10) — no SAST tool detected
 
 ## 源代码
 
@@ -42,27 +42,27 @@ x install mako
 
 ## 发布
 
-- **最新版本**: `rel_1_4_1` (2026-08-05)
-- **最近提交**: 2026-08-18
+- **最新版本**: `rel_1_4_3` (2026-09-22)
+- **最近提交**: 2026-09-22
 
 ## 流行度
 
-- **Star**: 459 · **Fork**: 94 · **开放 issue**: 374 · **贡献者**: 57
+- **Star**: 459 · **Fork**: 94 · **开放 issue**: 375 · **贡献者**: 57
 
 ## 累计统计
 
-- **发布数**: 80 · **已合并 PR**: 10 · **开放 PR**: 2 · **已关闭 issue**: 318 · **开放 issue**: 56 · **提交数**: 1017
+- **发布数**: 82 · **已合并 PR**: 10 · **开放 PR**: 2 · **已关闭 issue**: 319 · **开放 issue**: 56 · **提交数**: 1023
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 2 | 0 | 0 | 4 | 0 | 21 |
-| 90d | 2026-06-24 | 2 | 0 | 0 | 5 | 0 | 22 |
-| last180d | 2026-03-26 | 4 | 0 | 0 | 7 | 0 | 36 |
-| 360d | 2025-09-27 | 4 | 0 | 0 | 7 | 1 | 36 |
-| last720d | 2024-10-02 | 9 | 1 | 2 | 17 | 2 | 59 |
+| 30d | 2026-08-24 | 2 | 0 | 0 | 1 | 0 | 6 |
+| last60d | 2026-07-25 | 4 | 0 | 0 | 5 | 0 | 27 |
+| 90d | 2026-06-25 | 4 | 0 | 0 | 6 | 0 | 28 |
+| last180d | 2026-03-27 | 6 | 0 | 0 | 8 | 0 | 42 |
+| 360d | 2025-09-28 | 6 | 0 | 0 | 8 | 1 | 42 |
+| last720d | 2024-10-03 | 11 | 1 | 2 | 18 | 2 | 65 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ mako 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T02:26:23Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T02:26:38Z._

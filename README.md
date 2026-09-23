@@ -4,7 +4,7 @@
 
 Mako Templates for Python
 
-[![x-cmd/install — mako Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mako.svg)](https://x-cmd.com/install/mako)
+[![x-cmd/install — mako Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/mako.svg)](https://x-cmd.com/install/mako)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install mako
 
 ## Code insight
 
-Total: **23,649** lines of code across **109** files in the top 5 languages.
+Total: **23,727** lines of code across **108** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 17,067 | 658 | 2,484 | 71 |
-| ReStructuredText | 5,266 | 0 | 1,788 | 13 |
+| Python | 17,117 | 676 | 2,482 | 71 |
+| ReStructuredText | 5,294 | 0 | 1,795 | 12 |
 | Html | 1,001 | 0 | 30 | 23 |
 | Toml | 132 | 8 | 19 | 1 |
 | Makefile | 115 | 4 | 21 | 1 |
@@ -30,9 +30,9 @@ Overall score: **5.2 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
+- **SAST** (0/10) — no SAST tool detected
 
 ## Source
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `rel_1_4_1` (2026-08-05)
-- **Last commit**: 2026-08-18
+- **Latest**: `rel_1_4_3` (2026-09-22)
+- **Last commit**: 2026-09-22
 
 ## Popularity
 
-- **Stars**: 459 · **Forks**: 94 · **Open issues**: 374 · **Contributors**: 57
+- **Stars**: 459 · **Forks**: 94 · **Open issues**: 375 · **Contributors**: 57
 
 ## Totals (cumulative)
 
-- **Releases**: 80 · **Merged PRs**: 10 · **Open PRs**: 2 · **Closed issues**: 318 · **Open issues**: 56 · **Commits**: 1017
+- **Releases**: 82 · **Merged PRs**: 10 · **Open PRs**: 2 · **Closed issues**: 319 · **Open issues**: 56 · **Commits**: 1023
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 2 | 0 | 0 | 4 | 0 | 21 |
-| 90d | 2026-06-24 | 2 | 0 | 0 | 5 | 0 | 22 |
-| last180d | 2026-03-26 | 4 | 0 | 0 | 7 | 0 | 36 |
-| 360d | 2025-09-27 | 4 | 0 | 0 | 7 | 1 | 36 |
-| last720d | 2024-10-02 | 9 | 1 | 2 | 17 | 2 | 59 |
+| 30d | 2026-08-24 | 2 | 0 | 0 | 1 | 0 | 6 |
+| last60d | 2026-07-25 | 4 | 0 | 0 | 5 | 0 | 27 |
+| 90d | 2026-06-25 | 4 | 0 | 0 | 6 | 0 | 28 |
+| last180d | 2026-03-27 | 6 | 0 | 0 | 8 | 0 | 42 |
+| 360d | 2025-09-28 | 6 | 0 | 0 | 8 | 1 | 42 |
+| last720d | 2024-10-03 | 11 | 1 | 2 | 18 | 2 | 65 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for mako lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T02:26:22Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T02:26:38Z._
