@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 461 · **Forks**: 104 · **Open issues**: 375 · **Contributors**: 57
+- **Stars**: 461 · **Forks**: 107 · **Open issues**: 376 · **Contributors**: 57
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 10 · **Open PRs**: 2 · **Closed issues**: 319 · **Open issues**: 56 · **Commits**: 1023
+- **Releases**: 82 · **Merged PRs**: 10 · **Open PRs**: 2 · **Closed issues**: 319 · **Open issues**: 57 · **Commits**: 1023
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 2 | 0 | 0 | 1 | 0 | 0 |
-| last60d | 2026-08-19 | 2 | 0 | 0 | 1 | 0 | 6 |
-| 90d | 2026-07-20 | 4 | 0 | 0 | 6 | 0 | 27 |
-| last180d | 2026-04-21 | 5 | 0 | 0 | 7 | 0 | 35 |
-| 360d | 2025-10-23 | 6 | 0 | 0 | 8 | 1 | 42 |
-| last720d | 2024-10-28 | 10 | 1 | 2 | 16 | 2 | 62 |
+| 30d | 2026-09-19 | 2 | 0 | 0 | 1 | 1 | 0 |
+| last60d | 2026-08-20 | 2 | 0 | 0 | 1 | 1 | 6 |
+| 90d | 2026-07-21 | 4 | 0 | 0 | 6 | 1 | 27 |
+| last180d | 2026-04-22 | 5 | 0 | 0 | 7 | 1 | 35 |
+| 360d | 2025-10-24 | 6 | 0 | 0 | 8 | 2 | 42 |
+| last720d | 2024-10-29 | 10 | 1 | 2 | 16 | 3 | 62 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for mako lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T02:08:46Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T02:25:15Z._
