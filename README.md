@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-08-28 | 2 | 0 | 0 | 1 | 1 | 6 |
-| 90d | 2026-07-29 | 4 | 0 | 0 | 5 | 1 | 27 |
-| last180d | 2026-04-30 | 4 | 0 | 0 | 6 | 1 | 28 |
-| 360d | 2025-11-01 | 6 | 0 | 0 | 8 | 2 | 42 |
-| last720d | 2024-11-06 | 10 | 1 | 2 | 16 | 3 | 62 |
+| 30d | 2026-09-28 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-08-29 | 2 | 0 | 0 | 1 | 1 | 6 |
+| 90d | 2026-07-30 | 4 | 0 | 0 | 5 | 1 | 27 |
+| last180d | 2026-05-01 | 4 | 0 | 0 | 6 | 1 | 28 |
+| 360d | 2025-11-02 | 6 | 0 | 0 | 8 | 2 | 42 |
+| last720d | 2024-11-07 | 10 | 1 | 2 | 16 | 3 | 62 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for mako lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T02:55:26Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T03:04:17Z._
