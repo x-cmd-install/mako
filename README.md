@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 463 · **Forks**: 118 · **Open issues**: 376 · **Contributors**: 57
+- **Stars**: 464 · **Forks**: 118 · **Open issues**: 376 · **Contributors**: 57
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-19 | 2 | 0 | 0 | 1 | 1 | 0 |
-| 90d | 2026-08-20 | 2 | 0 | 0 | 1 | 1 | 6 |
-| last180d | 2026-05-22 | 4 | 0 | 0 | 6 | 1 | 28 |
-| 360d | 2025-11-23 | 6 | 0 | 0 | 8 | 2 | 42 |
-| last720d | 2024-11-28 | 10 | 1 | 2 | 16 | 3 | 62 |
+| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-20 | 2 | 0 | 0 | 1 | 1 | 0 |
+| 90d | 2026-08-21 | 2 | 0 | 0 | 1 | 1 | 6 |
+| last180d | 2026-05-23 | 4 | 0 | 0 | 6 | 1 | 28 |
+| 360d | 2025-11-24 | 6 | 0 | 0 | 8 | 2 | 42 |
+| last720d | 2024-11-29 | 10 | 1 | 2 | 16 | 3 | 62 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for mako lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261118.yml` · 2026-11-18T05:10:50Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T05:03:06Z._
